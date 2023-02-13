@@ -1,4 +1,5 @@
 # oibsip_taskno-2
 
-This is repository is for Oasis Infobyte Internship for 
-Task-2 in Java Programming.
+This code is for Number guessing game.</br> 
+This code is written in Java LAnguage</br>
+In this We have used Scanner and Random class from java.util library.
